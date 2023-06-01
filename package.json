@@ -1,0 +1,13 @@
+{
+  "name": "qrcode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "license": "ISC"
+  ,"scripts": {
+    "qrcode": "http-server -c-1"
+  },
+  "dependencies": {
+    "http-server": "^0.11.1"
+  }
+  }
